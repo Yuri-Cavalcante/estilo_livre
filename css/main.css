@@ -1,0 +1,38 @@
+nav {
+  font-size: 1.4rem;
+}
+
+.logo-nav {
+  height: 4.5rem;
+}
+
+main {
+  background-color: gray;
+}
+
+section {
+  font-size: 1rem;
+  color: yellow;
+}
+
+.callAction {
+  border-radius: 10px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.enviar {
+  width: fit-content;
+  background-color: black;
+  color: white;
+}
+
+.msg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/*# sourceMappingURL=main.css.map */
